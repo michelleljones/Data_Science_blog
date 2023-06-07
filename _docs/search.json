@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-07T20:21:55+10:00"
+      "last_modified": "2023-06-07T20:29:24+10:00"
     },
     {
       "path": "index.html",
       "title": "My data science blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-06-07T20:21:56+10:00"
+      "last_modified": "2023-06-07T20:29:25+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
